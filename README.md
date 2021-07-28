@@ -1,6 +1,6 @@
-# Portfolio
+# Jihan Ko - Portfolio Site
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
+This source code is a static web application built using Angular 10. The project is a landing page for any information regarding my professional career as a software developer.
 
 ## Development server
 

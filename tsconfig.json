@@ -22,7 +22,7 @@
       "@images/*": ["src/assets/images/*"],
       "@icons/*": ["src/assets/icons/*"],
       "@constants/*": ["src/assets/constants/*"],
-      "@feature/*": ["src/feature/*"]
+      "@feature/*": ["src/app/feature/*"]
     }
   }
 }

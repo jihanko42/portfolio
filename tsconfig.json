@@ -21,7 +21,8 @@
       "@core/*": ["src/app/core/*"],
       "@images/*": ["src/assets/images/*"],
       "@icons/*": ["src/assets/icons/*"],
-      "@constants/*": ["src/assets/constants/*"]
+      "@constants/*": ["src/assets/constants/*"],
+      "@feature/*": ["src/feature/*"]
     }
   }
 }

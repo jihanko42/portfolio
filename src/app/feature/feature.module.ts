@@ -7,6 +7,7 @@ import { AboutComponent } from './about/about.component';
 import { ExperienceComponent } from './experience/experience.component';
 import { ContactComponent } from './contact/contact.component';
 import { HeaderComponent } from './header/header.component';
+import { FeatureRoutingModule } from './feature-routing.module';
 
 
 
@@ -21,7 +22,8 @@ import { HeaderComponent } from './header/header.component';
   imports: [
     CommonModule,
     CoreModule,
-    SharedModule
+    SharedModule,
+    FeatureRoutingModule
   ]
 })
 export class FeatureModule { }

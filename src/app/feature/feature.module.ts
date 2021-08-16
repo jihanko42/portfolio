@@ -24,6 +24,9 @@ import { FeatureRoutingModule } from './feature-routing.module';
     CoreModule,
     SharedModule,
     FeatureRoutingModule
+  ], 
+  exports: [
+    HeaderComponent
   ]
 })
 export class FeatureModule { }

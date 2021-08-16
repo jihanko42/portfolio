@@ -26,7 +26,10 @@ import { FeatureRoutingModule } from './feature-routing.module';
     FeatureRoutingModule
   ], 
   exports: [
-    HeaderComponent
+    HeaderComponent,
+    AboutComponent,
+    ExperienceComponent,
+    ContactComponent
   ]
 })
 export class FeatureModule { }
